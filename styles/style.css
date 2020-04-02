@@ -1,3 +1,7 @@
+body {
+	font-family: ninomtavr;
+}
+
 .container {
 	max-width: 1640px;
 	width: 100%;
@@ -8,8 +12,6 @@
 	justify-content: space-between;
 	align-items: center;
 	height: 207px;
-
-
 }
 
 .uli {
@@ -68,43 +70,47 @@
  .white-box svg {
  	    font-size: 30px;
  }
-
- .section-box-title {
+.section2 {
+	padding-top: 80px;
+}
+ .section2-title {
  	margin-bottom: 70px;
  }
 
- .section-block {
+ .section2-block {
  	display: flex;
  	flex-wrap: wrap;
- 	justify-content: space-between;
+ 	/*justify-content: space-between;
+ 	align-items:*/ 
  }
- .section-block-box{
+ .section2-block-box{
  	max-width: 483px;
  	width: 100%;
  }
- .section-box-img{
+ .section2-block-box-image{
  	margin-bottom: 23px;
  }
- .section-block-box img {
+ .section2-block-box-image img {
  	width: 100%;
  }
- .section-box-title{
+ .section2-block-box-title{
  	margin-bottom: 33px;
 
  }
- .section-box-title-p {
+ .section2-block-box-p {
  	margin-bottom: 76px;
  	max-width: 446px;
  	width: 100%
  }
- .section-box-more {
+ .section2-block-box-more {
  	margin-right: 18px;
  	margin-bottom: 34px;
+ 	font-size: 24px;
  }
- .section-box-more a{
+ .section2-block-box-more a{
  	float: right;
  }
- .section-box-more::after{
+ .section2-block-box-more::after {
  	content: " ";
  	display: block;
  	clear: right;
