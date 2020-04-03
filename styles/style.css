@@ -89,7 +89,7 @@ body {
     justify-content: space-between;
  }*/
  .section2-block-box{
- 	max-width: 483px;
+ 	max-width: 425px;
  	width: 100%;
  }
  .section2-block-box-image{
@@ -104,8 +104,7 @@ body {
  }
  .section2-block-box-p {
  	margin-bottom: 76px;
- 	max-width: 446px;
- 	width: 100%
+ 	
  }
  .section2-block-box-more {
  	margin-right: 18px;
