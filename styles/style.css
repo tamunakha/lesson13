@@ -70,11 +70,17 @@ body {
  .white-box svg {
  	    font-size: 30px;
  }
+
 .section2 {
 	padding-top: 80px;
 }
  .section2-title {
  	margin-bottom: 70px;
+ }
+ .div-box {
+ 	display: flex;
+ 	flex-wrap: wrap;
+ 	justify-content:space-between;
  }
 
  .section2-block {
