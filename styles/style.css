@@ -83,11 +83,11 @@ body {
  	justify-content:space-between;
  }
 
- .section2-block {
+/* .section2-block {
  	display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
- }
+ }*/
  .section2-block-box{
  	max-width: 483px;
  	width: 100%;
