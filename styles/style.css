@@ -18,6 +18,9 @@
 	display: flex;
 
 }
+.burger-bar{
+    display: none;
+}
 
 .header-foto {
 	background-image: url(../images/foto.jpg);
